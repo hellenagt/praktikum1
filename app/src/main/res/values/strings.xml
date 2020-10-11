@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">praktikum1</string>
+    <string name="upn_veteran_jawa_timur">UPN Veteran Jawa Timur</string>
+    <string name="fakultas_ilmu_komputer">Fakultas Ilmu Komputer</string>
+    <string name="selanjutnya">selanjutnya</string>
+    <string name="sistem_informasi">Sistem Informasi</string>
+    <string name="_18082010003">18082010003</string>
+    <string name="hellen_agustina">Hellen Agustina</string>
+    <string name="sistem_informasi_2018">Sistem Informasi 2018</string>
+    <string name="todo">TODO</string>
+    <string name="aplikasi_profil_mahasiswa_sistem_informasi">Aplikasi Profil Mahasiswa Sistem Informasi</string>
+    <string name="profile_mahasiswa_sistem_informasi">Profile Mahasiswa Sistem Informasi</string>
+
+</resources>
